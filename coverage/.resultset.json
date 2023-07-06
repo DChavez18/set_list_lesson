@@ -224,6 +224,8 @@
           null,
           1,
           1,
+          1,
+          null,
           null
         ]
       },
@@ -237,7 +239,6 @@
         "lines": [
           1,
           1,
-          null,
           null
         ]
       },
@@ -255,17 +256,11 @@
           null
         ]
       },
-      "/Users/derekchavez/2mod/set_list/app/controllers/songs_controller.rb": {
+      "/Users/derekchavez/2mod/set_list/app/controllers/artist_songs_controller.rb": {
         "lines": [
           1,
-          null,
-          1,
-          0,
-          null,
-          null,
           1,
           1,
-          null,
           null,
           null
         ]
@@ -273,10 +268,12 @@
       "/Users/derekchavez/2mod/set_list/app/controllers/application_controller.rb": {
         "lines": [
           1,
+          null,
+          null,
           null
         ]
       }
     },
-    "timestamp": 1688519000
+    "timestamp": 1688617762
   }
 }
